@@ -1,452 +1,524 @@
 [
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531268499822,
+            "modifiedTime": 1531275393369,
             "changeTime": 1531268499822,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531268499822,
+            "modifiedTime": 1531275393369,
             "changeTime": 1531268499822,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026355,
-            "changeTime": 1531272026355,
-            "contentHash": "0a0df1d54ec8b49b972a19a672bd2178bf609060",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1531276329546,
+            "changeTime": 1531276329546,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\aura",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\aura",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1531268499822,
             "changeTime": 1531268499822,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\layouts",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\layouts",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026355,
+            "modifiedTime": 1531275393385,
             "changeTime": 1531272026355,
             "contentHash": "392cee5ddcd557829bc3f60e3a14207f6f78a7a0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\layouts\\Person__c-Person Layout.layout-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\layouts\\Person__c-Person Layout.layout-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\layouts\\Person__c-Person Layout.layout-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\layouts\\Person__c-Person Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2223,
-            "modifiedTime": 1531272026339,
-            "changeTime": 1531272026339,
-            "contentHash": "1b5634babf453dd2e7c2c471ca92165f69ed65a1",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 2364,
+            "modifiedTime": 1531276329530,
+            "changeTime": 1531276329530,
+            "contentHash": "278e8d93b981c85ee38eb88cd2a9516f2b27ae45"
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\layouts\\Process__c-Process Layout.layout-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\layouts\\Process__c-Process Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\layouts\\Process__c-Process Layout.layout-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\layouts\\Process__c-Process Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2229,
             "modifiedTime": 1531272026339,
             "changeTime": 1531272026339,
             "contentHash": "389dbbf0c8747d02157f56defd495f27de2484d4",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\layouts\\Task__c-Task Layout.layout-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\layouts\\Task__c-Task Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\layouts\\Task__c-Task Layout.layout-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\layouts\\Task__c-Task Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2370,
             "modifiedTime": 1531272026355,
             "changeTime": 1531272026355,
             "contentHash": "831caaadd170698deb15f7a591ad54a053850955",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026418,
+            "modifiedTime": 1531275393401,
             "changeTime": 1531272026418,
             "contentHash": "b86367634d050b7f0c3177e2c2771b11d6d90a70",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026371,
+            "modifiedTime": 1531275393385,
             "changeTime": 1531272026371,
             "contentHash": "64640deec0ae5ab228301fc0aff3076974b4274f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026371,
-            "changeTime": 1531272026371,
-            "contentHash": "548eee5f1f0ee17db9550ee798ede86a75ee389c",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1531276329530,
+            "changeTime": 1531276329530,
+            "contentHash": "38bf4c93e69c5520a6fe6d1c22fab70e69823c23"
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\Address__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\Address__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\Address__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\Address__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 360,
             "modifiedTime": 1531272026371,
             "changeTime": 1531272026371,
             "contentHash": "597bf111927d713a67852d97c330cd8673659b20",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\Full_Name__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\Full_Name__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\Full_Name__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\Full_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 364,
             "modifiedTime": 1531272026371,
             "changeTime": 1531272026371,
             "contentHash": "5ca8c44c9a7884aef5748f5b3fc650fd42fe490a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\Person__c.object-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\Person__c.object-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\Person__c.object-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\Person__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2073,
             "modifiedTime": 1531272026371,
             "changeTime": 1531272026371,
             "contentHash": "3be621415f7e549777a76f5bc46753111adae099",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026387,
+            "modifiedTime": 1531275393401,
             "changeTime": 1531272026387,
             "contentHash": "94504e7d8005a724bddca3a20434d9d9dd3b0e7e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026402,
+            "modifiedTime": 1531275393401,
             "changeTime": 1531272026402,
             "contentHash": "33d5564934a1c8497d640b75f0b1da282a130809",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\Case_Number__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\Case_Number__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\Case_Number__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\Case_Number__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 396,
             "modifiedTime": 1531272026387,
             "changeTime": 1531272026387,
             "contentHash": "4007e36c6cb223dbac31d194afaa3ae7f99a96ef",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\FirstName__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\FirstName__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\FirstName__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\FirstName__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 363,
             "modifiedTime": 1531272026402,
             "changeTime": 1531272026402,
             "contentHash": "ad7e8fba8d443bc54c5f57d2fd42f36651aaa5bb",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\LastName__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\LastName__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\LastName__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\LastName__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 362,
             "modifiedTime": 1531272026402,
             "changeTime": 1531272026402,
             "contentHash": "f25126e8ee9c60ee9f6c28fb1fe449dca07c7613",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\Owner_Name__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\Owner_Name__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\Owner_Name__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\Owner_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 365,
             "modifiedTime": 1531272026402,
             "changeTime": 1531272026402,
             "contentHash": "edc25a2f1c675f7c8d026fe93229b8f351938581",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\ProcessNumber__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\ProcessNumber__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\ProcessNumber__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\fields\\ProcessNumber__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 371,
             "modifiedTime": 1531272026402,
             "changeTime": 1531272026402,
             "contentHash": "a3f0e9b0de33d00e8207a2b199f98b5e4b28714d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\Process__c.object-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\Process__c.object-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\Process__c.object-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Process__c\\Process__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2077,
             "modifiedTime": 1531272026387,
             "changeTime": 1531272026387,
             "contentHash": "1e5bf416369aedc7d39a7fa262a7df89f672fdb5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026418,
+            "modifiedTime": 1531275393416,
             "changeTime": 1531272026418,
             "contentHash": "b93917efe2b1a101f570d18cecc87e92793f6a28",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531272026433,
+            "modifiedTime": 1531275393416,
             "changeTime": 1531272026433,
             "contentHash": "023d0c8be3ca7d47b4fa78874682de89ad9e7f7f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Status__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Status__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Status__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 357,
             "modifiedTime": 1531272026418,
             "changeTime": 1531272026418,
             "contentHash": "a968926411bc7df13141446d7caae607d6409ff5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\TaskStatus__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\TaskStatus__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\TaskStatus__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\TaskStatus__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 365,
             "modifiedTime": 1531272026418,
             "changeTime": 1531272026418,
             "contentHash": "f3223f5977a0a4091ea5423c381a30454ece974d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Task_Create_Date__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Task_Create_Date__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Task_Create_Date__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Task_Create_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 326,
             "modifiedTime": 1531272026433,
             "changeTime": 1531272026433,
             "contentHash": "991e601aed1a764a8ad906e360b5ed5d37010ce3",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Task_Number__c.field-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Task_Number__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Task_Number__c.field-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\fields\\Task_Number__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 396,
             "modifiedTime": 1531272026433,
             "changeTime": 1531272026433,
             "contentHash": "4a1154f2ef45120d367c63e4e424c021eec5eb2b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\Task__c.object-meta.xml",
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\Task__c.object-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\Task__c.object-meta.xml",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Task__c\\Task__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2067,
             "modifiedTime": 1531272026418,
             "changeTime": 1531272026418,
             "contentHash": "644797d71724c07740bf84e60378187ade2af3a5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject",
+        "C:\\Git\\Salesforce\\mySalesForceProject",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\stt_admin\\sfdx-simple\\mySalesForceProject",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1531269182197,
             "changeTime": 1531269182197,
             "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\DateOfBirth__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\objects\\Person__c\\fields\\DateOfBirth__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 316,
+            "modifiedTime": 1531276329530,
+            "changeTime": 1531276329530,
+            "contentHash": "c8a5fb9fbef85432fa5159150638edd80ce2dbd6"
+        }
+    ],
+    [
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20874,
+            "modifiedTime": 1531276329564,
+            "changeTime": 1531276329564,
+            "contentHash": "e251c38e956df49690ffb0f452de968e2fe69b57"
+        }
+    ],
+    [
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6800,
+            "modifiedTime": 1531276329582,
+            "changeTime": 1531276329582,
+            "contentHash": "ecb68deca3d9f728516d2ba48c26cd330e94bc97"
+        }
+    ],
+    [
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6462,
+            "modifiedTime": 1531276329582,
+            "changeTime": 1531276329582,
+            "contentHash": "a458b30901687124975680542d2b1700af1eb785"
+        }
+    ],
+    [
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6462,
+            "modifiedTime": 1531276329582,
+            "changeTime": 1531276329582,
+            "contentHash": "a458b30901687124975680542d2b1700af1eb785"
+        }
+    ],
+    [
+        "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Git\\Salesforce\\mySalesForceProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531276329570,
+            "changeTime": 1531276329570,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
         }
     ]
 ]
