@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Person__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "export-demo-Person__cs.json"
+        ]
+    }
+]

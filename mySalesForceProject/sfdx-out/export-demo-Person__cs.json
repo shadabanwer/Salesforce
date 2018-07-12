@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Person__c",
+                "referenceId": "Person__cRef1"
+            },
+            "Name": "Shadab",
+            "Address__c": "Pakenham",
+            "Full_Name__c": "Shadab Anwar"
+        },
+        {
+            "attributes": {
+                "type": "Person__c",
+                "referenceId": "Person__cRef2"
+            },
+            "Name": "Shadab2",
+            "Address__c": "Pakenham2",
+            "Full_Name__c": "Shadab Anwar2"
+        },
+        {
+            "attributes": {
+                "type": "Person__c",
+                "referenceId": "Person__cRef3"
+            },
+            "Name": "Shadab3",
+            "Address__c": "Pakenham3",
+            "Full_Name__c": "Shadab Anwar3"
+        }
+    ]
+}
