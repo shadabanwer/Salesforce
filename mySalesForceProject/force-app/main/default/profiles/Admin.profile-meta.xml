@@ -86,7 +86,6 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-<<<<<<< HEAD
         <object>Department__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -114,8 +113,6 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-=======
->>>>>>> d2db893a9a24567044a29cb3a81efbd9c9d258f8
         <object>Task__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
